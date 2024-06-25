@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_h_margin">29sp</dimen>
+    <dimen name="activity_v_margin">16sp</dimen>
+    <dimen name="activity_btn_hight">250sp</dimen>
+</resources>

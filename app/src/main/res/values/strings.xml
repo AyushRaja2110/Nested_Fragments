@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">fragments1</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+    
+    <style name="text">Light Mode</style>
+
+</resources>
